@@ -1,0 +1,14 @@
+{
+  "name": "labstar",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "dependencies": {
+    "postcss": "^8.4.29"
+  }
+}
